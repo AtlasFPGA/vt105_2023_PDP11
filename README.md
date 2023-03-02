@@ -83,6 +83,7 @@ sobre las señales DVI:
    En la distribución que posée la terminal VT sólo esta para la familia cyclone II.
    En realidad la Terasic DE1, aunque las ventajas de tamaño/potencia de la CYC1000,
    ha desplazado totalmente a otras fpgas.
+   
    https://pdp2011.sytse.net/wordpress/pdp-11/fpga-boards/cyc1000/
    
    
