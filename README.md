@@ -76,3 +76,12 @@ sobre las señales DVI:
    
    En este caso sería 25Mhz -> Reloj de pixel
    En este caso sería 125Mhz -> Reloj serializadores envoltorio DVI. 
+   
+   Enorme agradecimiento al creador de los códigos de diferentes
+   servidores pdp11, por su increible trabajo por más de 10 añós.
+   
+   En la distribución que posée la terminal VT sólo esta para la familia cyclone II.
+   En realidad la Terasic DE1.
+   https://pdp2011.sytse.net/wordpress/pdp-11/fpga-boards/cyc1000/
+   
+   
