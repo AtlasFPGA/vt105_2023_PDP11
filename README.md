@@ -25,7 +25,7 @@ Para eso se modifica la señal vga:
  Por último la señal vga_den se aplica en el envoltorio DVI. 
  
  
-  | señal BLANK_I en TOP.vhd |
+  | señal BLANK_I en top.vhd |
    | :--- |
  | mi_hdmi: hdmi port map( |
 |	CLK_DVI_I	=> chdmi, |
