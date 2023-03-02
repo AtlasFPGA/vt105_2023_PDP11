@@ -56,7 +56,7 @@ sobre las señales DVI:
 
 
  Analicemos el pll que por equivocación llame ppl: 
-   | Explicaciones pll |  aclaració |
+   | Explicaciones pll |  aclaraciónes |
    | :--- |  :--- |
   |begin | |
  |pll0: mi_ppl port map( | |
