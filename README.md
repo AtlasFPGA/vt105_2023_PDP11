@@ -67,7 +67,7 @@ sobre las señales DVI:
    |c3 => chdmi | 125Mhz |
    | ); |  |
    
-   si nos fijamos en dijital siempre se ajusta a 25Mhz
+   si nos fijamos en digital siempre se ajusta a 25Mhz
    cuando la frecuencia analógica de la resolución es 25,125Mhz.
    
    A un envorltorio DVI siempre va la frecuencia de la vga que estemos usando,
