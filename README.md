@@ -58,13 +58,13 @@ sobre las señales DVI:
  Analicemos el pll que por equivocación llame ppl: 
    | Explicaciones pll |  aclaraciónes |
    | :--- |  :--- |
-  |begin | |
- |pll0: mi_ppl port map( | |
-   |    inclk0 => clkin12, | |
-    |   c0 => c0, | 10Mhz|
-		 |c1 => clkin, | 50Mhz|
-		 |c2 => cpixel, | 25Mhz|
-		 |c3 => chdmi | 125Mhz |
+   |begin | llamada |
+   |pll0: mi_ppl port map( | instancia pll0 |
+   |    inclk0 => clkin12, | reloj de entrada cyc1000 12Mhz|
+   |   c0 => c0, | 10Mhz|
+   |c1 => clkin, | 50Mhz|
+   |c2 => cpixel, | 25Mhz|
+   |c3 => chdmi | 125Mhz |
    | ); |  |
    
    si nos fijamos en dijital siempre se ajusta a 25Mhz
