@@ -37,6 +37,6 @@ Para eso se modifica la señal vga:
 |	HSYNC_I		=>  vgah, |
 |	VSYNC_I		=>  vgav, |
 |	TMDS_D0_O	=>  TMDS_D0_O, |
-	TMDS_D1_O	=>  TMDS_D1_O,
-	TMDS_D2_O	=>  TMDS_D2_O,
-	TMDS_CLK_O	=>  TMDS_CLK_O);
+|	TMDS_D1_O	=>  TMDS_D1_O, |
+|	TMDS_D2_O	=>  TMDS_D2_O, |
+|	TMDS_CLK_O	=>  TMDS_CLK_O); |
